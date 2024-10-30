@@ -1,0 +1,5 @@
+/venv
+/data
+/pgdata
+__pycache__/
+.env
